@@ -44,9 +44,9 @@ Customers, Orders, Order_Items
 | GET | /api/sales/monthly-sales | Monthly trend |
 
 ## Dashboard Preview
-![Executive Summary](docs/dashboard_page1.png)
-![Regional Performance](docs/dashboard_page2.png)
-![Product Performance](docs/dashboard_page3.png)
+![Executive Summary](RetailPulse/docs/dashboard_page1.png)
+![Regional Performance](RetailPulse/docs/dashboard_page2.png)
+![Product Performance](RetailPulse/docs/dashboard_page3.png)
 
 ## Grade
 O — Outstanding (90-100) | EduSkills Academy
